@@ -9,7 +9,7 @@ const current0El = document.getElementById('current--0');
 const current1El = document.getElementById('current--1');
 const output1 = document.getElementById('winscore');
 const input1 = document.getElementById('winningnum');
-const inputField = document.getElementById('winningnum');
+
 
 const diceEl = document.querySelector('.dice');
 const btnNew = document.querySelector('.btn--new');
